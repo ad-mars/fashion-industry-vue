@@ -1,5 +1,6 @@
 {
-  "name": "beauty-industry-vue",
+  "name": "fashion-industry-vue",
+  "author": "Alexander Dmitriev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
